@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/Fikrianamm/Fikrianamm/main/giphy.webp" width = 250px></picture>
 <br><br>
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
