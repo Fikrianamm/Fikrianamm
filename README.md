@@ -17,6 +17,7 @@
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React"></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS"></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Typescript"></code>
 <br><br>
 
 
